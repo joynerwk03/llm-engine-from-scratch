@@ -1,0 +1,6 @@
+torch==2.13.0
+safetensors
+transformers==5.17.0   # the tokenizer, and the reference model in tests/
+fastapi
+uvicorn
+pytest
